@@ -4,5 +4,6 @@ Simple KSP mod that shows a window when you press Alt+C that gives info on your 
 ## Instructions
 1. Enter flight mode on any vessel
 2. Press Alt + C
-<img width="1640" height="817" alt="image" src="https://github.com/user-attachments/assets/64249c15-feaa-4dfc-9658-9f9e49fd6805" />
+<img width="1158" height="922" alt="image" src="https://github.com/user-attachments/assets/763d836e-bccc-4d9e-ae6e-0edce6343c88" />
+
 
