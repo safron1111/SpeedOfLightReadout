@@ -3,7 +3,8 @@ Simple KSP mod that shows a window when you press Alt+C that gives info on your 
 
 ## Instructions
 1. Enter flight mode on any vessel
-2. Press Alt + C
-<img width="1158" height="922" alt="image" src="https://github.com/user-attachments/assets/763d836e-bccc-4d9e-ae6e-0edce6343c88" />
+2. Press Alt + C or the toolbar button labeled cSpeed
+<img width="1848" height="1079" alt="image" src="https://github.com/user-attachments/assets/dd82aa40-a188-455b-a32f-7b56edaac02b" />
 
-
+## Dependencies
+Toolbar Controller: https://forum.kerbalspaceprogram.com/topic/169509-112x-toolbar-controller-for-modders/ https://spacedock.info/mod/1931/ToolbarController https://github.com/linuxgurugamer/ToolbarControl
